@@ -12,7 +12,7 @@ keen interest in software development.</h3>
 ![A dedicated undergraduate Computer Science student with a
 keen interest in software development.](https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif)
 </div>
-<!--bal-->
+<!--Hi Babieee-->
 
 - 🔭 I’m currently working on **Algorithms**
 - 🌱 I’m currently learning **Machine Learning Basics** and **Artificial Intelligence**
